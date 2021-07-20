@@ -9,6 +9,13 @@ body {
   max-width: 800px;
 }
 
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+
 @media only screen and (min-width: 800px) {
   .card-cap {
     background: url('../img/cap.png') -50px -50px no-repeat;
